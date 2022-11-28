@@ -6,7 +6,7 @@
  *
  * @author F. de Sande
  * @date Nov 28, 2022
- * @brief Shows floating point arithmetics
+ * @brief Este programa toma como parámetros dos vectores y devuelve como resultado un tercer vector que sea la concatenación de los dos vectores pasados.
  *
  * https://www.geeksforgeeks.org/problem-in-comparing-floating-point-numbers-and-how-to-compare-them-correctly/
  * @see https://stackoverflow.com/a/17341/12791643

@@ -6,7 +6,7 @@
  *
  * @author F. de Sande
  * @date Nov 28, 2022
- * @brief Shows floating point arithmetics
+ * @brief Este programa programa suma vectores
  *
  * https://www.geeksforgeeks.org/problem-in-comparing-floating-point-numbers-and-how-to-compare-them-correctly/
  * @see https://stackoverflow.com/a/17341/12791643

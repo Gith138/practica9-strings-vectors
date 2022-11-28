@@ -6,8 +6,7 @@
  *
  * @author F. de Sande
  * @date Nov 28, 2022
- * @brief Shows floating point arithmetics
- *
+ * @brief Shows floating point arithmeticsEste programa genera un vector con size componentes y ejecuta nuemros aleatorios dentro de los intervalos, dicho por el usuario
  * https://www.geeksforgeeks.org/problem-in-comparing-floating-point-numbers-and-how-to-compare-them-correctly/
  * @see https://stackoverflow.com/a/17341/12791643
  ** Main function

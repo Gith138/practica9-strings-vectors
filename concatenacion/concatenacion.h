@@ -6,7 +6,7 @@
  *
  * @author Godgith John
  * @date 28.nov.2022
- * @brief 
+ * @brief Este programa toma como parámetros dos vectores y devuelve como resultado un tercer vector que sea la concatenación de los dos vectores pasados.
  * @see https://docs.google.com/document/d/1-3hTIVf8tPrbn9u0vs0Cm2IGyX1XBgv8hReVU0KOSUQ/edit?usp=sharing
  * @see stoi http://www.cplusplus.com/reference/string/stoi/
  * An Object Oriented Version of the program:
